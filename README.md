@@ -2,7 +2,7 @@
 
 Environment variables: 
 
-- `TELOXIDE_BOT_TOKEN`: telegram bot token
+- `TELOXIDE_TOKEN`: telegram bot token
 - `CHAT_ID`: your chat id with your telegram bot
 
 Usage: `<program name> <url>`
